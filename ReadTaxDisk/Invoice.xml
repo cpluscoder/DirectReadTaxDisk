@@ -1,0 +1,2915 @@
+<?xml version="1.0" encoding="gbk"?>
+<business comment="发票查询" id="FPCX">
+<body yylxdm="1">
+<output>
+<returncode>0</returncode>
+<returnmsg>成功</returnmsg>
+<fpxx count="40">
+<group xh="1">
+<fpdm>3200162130</fpdm>
+<fphm>37157869</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20161226</kprq>
+<kpsj>160652</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>038*254*1205&lt;/51296&gt;&lt;53/03&gt;/628366&lt;&lt;7987&gt;987*77677-5730-/50370&lt;0114*&lt;819048*354*/7&lt;495527*911*012&lt;-*03*/-00/3*8+</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>320111558894437</ghdwsbh>
+<ghdwmc>南京霍斯特电子科技有限公司</ghdwmc>
+<ghdwdzdh>南京市浦口区大桥北路1号华侨广场1713室   13913849698</ghdwdzdh>
+<ghdwyhzh>工商银行南京浦阳分理处   4301014409100188558</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>全自动一体化财税软件</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>29914.5299145299145</dj>
+<je>29914.53</je>
+<sl>0.17</sl>
+<se>5085.47</se>
+<hsbz>0</hsbz>
+<spbm>1060301020200000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>29914.53</je>
+<se>5085.47</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>29914.53</hjje>
+<hjse>5085.47</hjse>
+<jshj>35000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>全自动一体化财税软件</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201612</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgHwhgWIWQJVWz8MZkiX4wJHfcTTXjgXrCK23xQHFvE5Ul2YR1lClS7LdkClgtEdRlVxLKrOm+Dmc3mCbZynfN9zanFZ4jGbubqBWfMWkRkKxNJWHKTdy5XTgj/3Ov1zdgLU/uq8g1UZnPW8ZD5Atvl/FDkPYTGLf/yPZCIy0+eEM</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="2">
+<fpdm>3200162130</fpdm>
+<fphm>37157870</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20161230</kprq>
+<kpsj>103555</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>034-9-98***-6&gt;293318&gt;&gt;2&gt;6548++&lt;54/4709&lt;-2*46-&lt;+50185+6&lt;83&lt;2&lt;0&gt;-8&gt;/&lt;&lt;705-&gt;692876704056-6&lt;&lt;738+2019&lt;-*03&gt;*407-2-+8</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨经开区南岗集中区汉水路436号中行A栋10楼6号045155539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行  168978098920</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>84905.6603773584906</dj>
+<je>84905.66</je>
+<sl>0.06</sl>
+<se>5094.34</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>84905.66</je>
+<se>5094.34</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>84905.66</hjje>
+<hjse>5094.34</hjse>
+<jshj>90000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201612</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKe8LNua7lb4ssEAX9nNVG5ePdvhQhnZcWydr+2XwUxfeXqtcDlqdna9in6YKkkw3/pV21hH+6WE0gQroFp03KGz60hrwBsfeJvJzRQxp3/kEvkQ3v/d8H/Bg4lmjlS58UkSuFLBwoVfvnpHcm3h7YX7pM7zZHuclWhL1NViq2aH</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="3">
+<fpdm>3200162130</fpdm>
+<fphm>37157871</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20161230</kprq>
+<kpsj>104304</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03152&gt;4&gt;041&gt;&lt;1&lt;1+3-31-8+&lt;-2+&gt;-3888/4&gt;2&gt;73463&gt;0+4/+27075134673+020-858+&gt;97*&gt;&lt;93&lt;02003+//98///6-019&lt;-*0343925/4-0+</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨经开区南岗集中区汉水路436号中行A栋10楼6号045155539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行  168978098920</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>84905.6603773584906</dj>
+<je>84905.66</je>
+<sl>0.06</sl>
+<se>5094.34</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>84905.66</je>
+<se>5094.34</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>84905.66</hjje>
+<hjse>5094.34</hjse>
+<jshj>90000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201612</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgBaLH8O0mcIWeCdrQKj/C4hAO+cHXnqXvYb2aPmI+aqkPeMz9Uw9gGV2v+ft6W2VTuiNXfMLL4449JLzaAY22PK/Xdtvscw1u2A2A70YivOhZOLXyRgU4qfim89hnCZuxpuAb2XnkUhRampLEuPaHEpsvh4eJ6UYRunkWfp8jqh5</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="4">
+<fpdm>3200162130</fpdm>
+<fphm>37157872</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20161230</kprq>
+<kpsj>104424</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0336*5568***484349*-&lt;620+9+3&lt;11*2&lt;*-1-*692++8*06*07*09/-97153963821*/84&gt;/&lt;8-35-*47*45/8&lt;79&lt;*43019&lt;-*03-+7-22+919</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨经开区南岗集中区汉水路436号中行A栋10楼6号045155539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行  168978098920</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>84905.6603773584906</dj>
+<je>84905.66</je>
+<sl>0.06</sl>
+<se>5094.34</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>84905.66</je>
+<se>5094.34</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>84905.66</hjje>
+<hjse>5094.34</hjse>
+<jshj>90000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201612</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgC0k/IwYkqe9SdtI483nYG8265S8VFQdoicKYuCLhR/RLAhW97FueXbmDGrjKnK6ynFEvl+CgBgzFoEblYM0tAaGq/djHCi4Vql2NFiawx0adSCKmvIvhS/+VctPdJYqfQjW4w1xXR+0lAwnSXUGlN/SR8hMYpx/jz6NSgxo8Ucy</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="5">
+<fpdm>3200162130</fpdm>
+<fphm>37157873</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20161230</kprq>
+<kpsj>104647</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>035448&lt;58/101570200*46&lt;11595750&lt;2**3&lt;&lt;2-2452+++6&lt;+962&gt;36&lt;*9+09/45/29149/6&gt;-+196/+0/8-&lt;22&lt;04&lt;45019&lt;-*039&lt;9--7-764</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨经开区南岗集中区汉水路436号中行A栋10楼6号045155539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行  168978098920</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>28301.8867924528302</dj>
+<je>28301.89</je>
+<sl>0.06</sl>
+<se>1698.11</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>28301.89</je>
+<se>1698.11</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>28301.89</hjje>
+<hjse>1698.11</hjse>
+<jshj>30000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201612</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgF9NZN0aIRaVNAOS5PMFlXx8h3m7ATx9bnV8yK6KRD6/OCRKp/7Jc1mG2Z1Ul8Vle9HLYvurwGSo+f+rQMxxsWtdDxgnJ5JejM9+WDRMVGM8FzUqqOE6XKRyyk52nla6Nz+zt6JlNuYlpauCgPi4lwxYTHxIlBSqaWi7eCbhL1AS</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="6">
+<fpdm>3200162130</fpdm>
+<fphm>46975324</fphm>
+<fpzt>3</fpzt>
+<scbz>1</scbz>
+<kprq>20170316</kprq>
+<kpsj>162552</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>038065*/-/117+26366635652&gt;1276022++663287/&lt;-*+*6//3*88111043**&gt;&gt;/2&gt;&lt;129*3/1/35&gt;3647363/90*59/201&lt;&lt;-*03&gt;506197950</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310230791449444E</ghdwsbh>
+<ghdwmc>上海无际企业登记代理有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区长安路1138号19楼A座 02151068088</ghdwdzdh>
+<ghdwyhzh>上海银行闸北支行</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>94339.622641509434</dj>
+<je>94339.62</je>
+<sl>0.06</sl>
+<se>5660.38</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>94339.62</je>
+<se>5660.38</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>94339.62</hjje>
+<hjse>5660.38</hjse>
+<jshj>100000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201703</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq>20170316</zfrq>
+<zfr>方哲</zfr>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgHvQoy5NWEJbLjvod8u9ZX5WCAP5D/j5bVJi9sViSl1BCd4AZ7vV11UIkNFGRO/S/KxDBOTzIN4AYdkR9jc+OpGiDVmca5TrPJq+Twcmdhczw/eFwPOZzP2EhBWRTy7zE6JO8WxWAdHp3xoJzblk2oq7f0JLGvVQFY7lrAz4K9vC</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="7">
+<fpdm>3200162130</fpdm>
+<fphm>46975325</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170316</kprq>
+<kpsj>162921</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03+4425-&gt;0-&gt;&lt;-44&lt;9&lt;&lt;264&gt;614*&lt;++32+*95727+0&gt;0254&lt;01&lt;156&gt;254221-4*3&lt;&gt;54964/*48076776&lt;1&gt;86&lt;+8+60501&lt;&lt;-*03/64&lt;824&gt;0-</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310230791449444E</ghdwsbh>
+<ghdwmc>上海无际企业登记代理有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区长安路1138号19楼A座 02151068088</ghdwdzdh>
+<ghdwyhzh>上海银行闸北支行 31630803000554889</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>84905.6603773584906</dj>
+<je>84905.66</je>
+<sl>0.06</sl>
+<se>5094.34</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>84905.66</je>
+<se>5094.34</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>84905.66</hjje>
+<hjse>5094.34</hjse>
+<jshj>90000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201703</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgBm/azhERUdpd7m4op5gKC2M5lbFiuL9vJ1l29y+aNMJgXAfUinTaa0hqYyyNCLIZUoJtO9/YcuwhzGotvSaNcvbMUl6TUbu8c7ZtfdWJNDbfi/YCygCra+JCRTsQWkUNBY61IxQ6KPA/IkWtOqbIZuVD70kb0cg+8VUAbryA/ce</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="8">
+<fpdm>3200162130</fpdm>
+<fphm>46975326</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170316</kprq>
+<kpsj>163439</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>033755&lt;+2818&lt;4&lt;-6&lt;4*02479012&lt;&gt;-/3/27+96-5105&lt;29437&gt;5837&gt;059681-8/*26043&gt;2+/35-5323+92-8&gt;7*8&gt;/801&lt;&lt;-*038&lt;&gt;+4&lt;56&lt;+</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310230791449444E</ghdwsbh>
+<ghdwmc>上海无际企业登记代理有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区长安路1138号19楼A座 02151068088</ghdwdzdh>
+<ghdwyhzh>上海银行闸北支行 31630803000554889</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>84905.6603773584906</dj>
+<je>84905.66</je>
+<sl>0.06</sl>
+<se>5094.34</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>84905.66</je>
+<se>5094.34</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>84905.66</hjje>
+<hjse>5094.34</hjse>
+<jshj>90000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201703</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgJdZ8jIOodPfv+F3Mb6KKgLO2CrVLttnymW8rHeTtHJZQCDKNvD3q06v2BPtLBLblnfmjxOgjYljhu5WoIioB/qjhCxzOVOmlH7nf4BEdntc+5ktQ5irEnILxZIyUGxI2PbPk2SGNVFNyvaLdAyCpRKNO6qEzsZ2PNLHAGSCZvbW</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="9">
+<fpdm>3200162130</fpdm>
+<fphm>46975327</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170316</kprq>
+<kpsj>163734</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>034074&gt;6*9*9-454502/44*&lt;+*&lt;3/85-5&gt;254*0542*6&lt;53*2&lt;*45&gt;95/&gt;89/74*62*/130&gt;664*&lt;&lt;90956&lt;0427*6&lt;&gt;7401&lt;&lt;-*03+4/04+0*&lt;0</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310230791449444E</ghdwsbh>
+<ghdwmc>上海无际企业登记代理有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区长安路1138号19楼A座 02151068088</ghdwdzdh>
+<ghdwyhzh>上海银行闸北支行 31630803000554889</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>18867.9245283018868</dj>
+<je>18867.92</je>
+<sl>0.06</sl>
+<se>1132.08</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>18867.92</je>
+<se>1132.08</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>18867.92</hjje>
+<hjse>1132.08</hjse>
+<jshj>20000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201703</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgEQIkiBM8Kng0xKvXbt8ac/5PTWOsSvq18Wb7YzO/l7TzIdCDBkho7FTQJ6UG7z3wOp3Cx0UCS/hCrxsKZpbMg4/ZI79nYIzMIx0Mxfphy8nk9JdtwaIZ9tKI94RlcEJmtuIVSqtgvq8V+neKzgskHQ7fg45x+3w6T+14JamxC51</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="10">
+<fpdm>3200162130</fpdm>
+<fphm>46975328</fphm>
+<fpzt>3</fpzt>
+<scbz>1</scbz>
+<kprq>20170401</kprq>
+<kpsj>182653</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03051&lt;&gt;35045-19&lt;590*363172+3+&gt;*4419/760&lt;*8-28667919&gt;6&lt;7422/&lt;78750507&lt;6208/&lt;5&lt;43/7-914860688254017&lt;-*03212/-95+&lt;5</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110109MA0073QE3</ghdwsbh>
+<ghdwmc>北京智竹科技有限公司</ghdwmc>
+<ghdwdzdh>北京市门头沟区石龙经济开发区永安路20号3号楼A-4542室 01086460788</ghdwdzdh>
+<ghdwyhzh>中国建设银行北京市门头沟支行  11050168360000000399</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>9433.9622641509434</dj>
+<je>9433.96</je>
+<sl>0.06</sl>
+<se>566.04</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>9433.96</je>
+<se>566.04</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>9433.96</hjje>
+<hjse>566.04</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201704</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq>20170406</zfrq>
+<zfr>方哲</zfr>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgG7V7WQ5Smgiopbzj5oAWHTa2U0qb7Y2ZjHs7C6Uw9nCiMW441hX8nfOlwroxURwJHh9RXaz/O8rIibVsjcSnq1kCUVsg3r5EDJR16UC2Oqh1o+oRJlC7ic2023PBu3O9RohOFDAK3/OEHbNPE1pYaKYjgHvVwgkwpMtnYPoffEn</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="11">
+<fpdm>3200163130</fpdm>
+<fphm>09283655</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170407</kprq>
+<kpsj>120626</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03+92-&lt;&gt;+4&gt;57/3&gt;0*0+7827/-7527008-1876172+1/4/*57&lt;+/2+021&gt;99563*55742/070&lt;119***/-72/+85+-/307011&lt;-*03&gt;62+-76962</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110109MA0073QE3L</ghdwsbh>
+<ghdwmc>北京智竹科技有限公司</ghdwmc>
+<ghdwdzdh>北京市门头沟区石龙经济开发区永安路20号3号楼A-4542室 01086460788</ghdwdzdh>
+<ghdwyhzh>中国建设银行北京市门头沟支行 11050168360000000399</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>9433.9622641509434</dj>
+<je>9433.96</je>
+<sl>0.06</sl>
+<se>566.04</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>9433.96</je>
+<se>566.04</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>9433.96</hjje>
+<hjse>566.04</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201704</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgEQWDIKDZCTB4efCLvKwlcSlJucMOi7Huwvi7+lgE4bc6oKjsL71zsY0h/lUMk2O44Ylvxxr+dIP/IWDRmyF+aGwnNir5zFO154ji6oM1Wb+g/pRBjsPN8CQ/QnvQUdGfg2DXuXHWMZooYTYniCxNllBD8BLGB0xUQD/SA9wFUnm</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="12">
+<fpdm>3200163130</fpdm>
+<fphm>09283656</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170419</kprq>
+<kpsj>091530</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>036272&lt;-&lt;+9&lt;&lt;78/087596094&lt;7*1&gt;+&gt;943-*0129/2-1-&gt;50&gt;/&gt;&lt;6/7+00417099&gt;0333&gt;5124-3+5*66&lt;&gt;245&gt;1*2158012&lt;-*03-45&gt;+871&gt;5</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320505697868466G</ghdwsbh>
+<ghdwmc>苏州恒莱运电子有限公司</ghdwmc>
+<ghdwdzdh>苏州高新区邓蔚路滨河花苑6幢212室  0512-67518884</ghdwdzdh>
+<ghdwyhzh>光大银行苏州高新技术产业开发区支行 37090188000036027</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>47169.811320754717</dj>
+<je>47169.81</je>
+<sl>0.06</sl>
+<se>2830.19</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>47169.81</je>
+<se>2830.19</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>47169.81</hjje>
+<hjse>2830.19</hjse>
+<jshj>50000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>方哲</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201704</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKBmCFK4cECx1Uf8csHRf+MF1r0Umxs/NT0SWDp1HJkvExl27GQtgxWJVan+DrXOdaYBltQ+K/1WnuylIWwiIGlHjmZnTDhiQ9n5h6UKbZ8j9E4CY2OVNEM5bfI4G/226Qlv2Q46sCDvNfLzDl5MW40gMhcjR5fHB7KKtoataV5c</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="13">
+<fpdm>3200163130</fpdm>
+<fphm>09283657</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170619</kprq>
+<kpsj>174313</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03&lt;92&gt;/5668+02946/-62*&gt;*&gt;907&lt;--2073*36*&lt;36/+7579&gt;2&gt;19998632+&gt;4+-0/&gt;7450-6*131752/0-4/7/36/744201/&lt;-*03/7731&lt;&gt;&lt;59</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110105MA001GEK99</ghdwsbh>
+<ghdwmc>北京合美通达广告有限公司</ghdwmc>
+<ghdwdzdh>北京市朝阳区建国路15号院甲1号北岸1292三间房创意生活园区4-522 010-65760195</ghdwdzdh>
+<ghdwyhzh>招商银行股份有限公司北京青年路支行  110919570410802</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>33018.8679245283019</dj>
+<je>33018.87</je>
+<sl>0.06</sl>
+<se>1981.13</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>33018.87</je>
+<se>1981.13</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>33018.87</hjje>
+<hjse>1981.13</hjse>
+<jshj>35000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201706</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgHsfgCiuSPDMi5ZB0Zw3AKPvWPJciaEEun6Lv7Bh3s82GQ98pFKTplylND3WWVp+u+1K6JzJWsZzpkHdXkjijxEbHdCbiG6d9tzdDxw1Oi23lyv822FYMLZNQNZiPV+Fw3RQ+P7UTXWHmF8DUMyQT7wTd4cHsj7PWoOKj861ABnh</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="14">
+<fpdm>3200163130</fpdm>
+<fphm>09283658</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170628</kprq>
+<kpsj>120237</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03/&gt;14259632-&lt;&gt;71*31/*-0388/3715&gt;32++&gt;29++18-3*++4629208&lt;29*5+06298+/25+*4680*607/+&lt;5+&lt;*266203018&lt;-*031284&lt;+57-*</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>911103047493868811</ghdwsbh>
+<ghdwmc>北京恒业科码科贸有限公司</ghdwmc>
+<ghdwdzdh>北京市房山区燕山双泉路2号（地毯厂内)11号楼101 010-81345528</ghdwdzdh>
+<ghdwyhzh>交通银行北京农科院支行 110060435018000951028</ghdwyhzh>
+<bmbbbh>12.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>14150.9433962264151</dj>
+<je>14150.94</je>
+<sl>0.06</sl>
+<se>849.06</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>14150.94</je>
+<se>849.06</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>14150.94</hjje>
+<hjse>849.06</hjse>
+<jshj>15000.00</jshj>
+<bz/>
+<skr/>
+<fhr>方哲</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201706</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgE/iTHdGvHnNjsg6ayuXWxFVVuHPgvU3kTDtRNqvk9nmL1jQHgwPscs81/v4Ovcba7epUdXjcIx/tci/Rc3ukQMQCYW0FrQV+mkpYFgElQ3PDAkkkqZiVhYKMWFUNKi8o2vhg3UF6iNV+wsrsRhGSPjAaUWxQO4oKvNnBAJEBDej</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="15">
+<fpdm>3200163130</fpdm>
+<fphm>09283659</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20170921</kprq>
+<kpsj>184018</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>036-&lt;*&lt;&lt;3/1-011*1&lt;*55+212146-+/38&gt;/248&gt;&gt;7&lt;&gt;6&gt;/7*201615509*5448704*&gt;//&gt;78+*-8&lt;*12+5/+7*891--93-014&lt;-*0337&gt;&lt;56++&gt;4</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320594339261162U</ghdwsbh>
+<ghdwmc>苏州鑫铄金贸易有限公司</ghdwmc>
+<ghdwdzdh>苏州工业园区青澄路97号青澄花园二区25幢127室  18915517160</ghdwdzdh>
+<ghdwyhzh>招商银行苏州分行 512905492710903</ghdwyhzh>
+<bmbbbh>13.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>18113.2075471698113</dj>
+<je>18113.21</je>
+<sl>0.06</sl>
+<se>1086.79</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>18113.21</je>
+<se>1086.79</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>18113.21</hjje>
+<hjse>1086.79</hjse>
+<jshj>19200.00</jshj>
+<bz>100口1台</bz>
+<skr/>
+<fhr/>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201709</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAAA4t0UwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgDI+RN0E1U2f6QDWVW2ZYwycskhzCrj+nETOmtY4Ku2SrF0Q5PbMVQM4IUmMqVMBv6hBDqIn4Diwv6w9SyqVq7l2l6nfYIfv8MBKx86+YE1ukzj8v/F36TeSbdj8yCrhMkZThUhDDvju8Vs1K4DgWDLlIiS8Vfeado/onkhRUKpC</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="16">
+<fpdm>3200174130</fpdm>
+<fphm>02642671</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171124</kprq>
+<kpsj>180648</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03+99+***54&gt;255*948+4//54*6698&gt;42&gt;3&lt;*&gt;630/10--5+/5*342&gt;4309&gt;/*70&gt;836&lt;1-+67&lt;0+765&lt;&gt;-*0+692+7*93018&lt;-*0354*7923942</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨市南岗区汉水路436号A栋10楼6号 0451-55539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行 168978098920</ghdwyhzh>
+<bmbbbh>14.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>USB机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>5</spsl>
+<dj>4700.85470085470085</dj>
+<je>23504.27</je>
+<sl>0.17</sl>
+<se>3995.73</se>
+<hsbz>0</hsbz>
+<spbm>1090511020000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>23504.27</je>
+<se>3995.73</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>23504.27</hjje>
+<hjse>3995.73</hjse>
+<jshj>27500.00</jshj>
+<bz>USB机柜五台</bz>
+<skr/>
+<fhr/>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>USB机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201711</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgANXZlnDVjorODXJ/et9/PNReU29srC1UHP3RDqTv3akIaiQyWPXSoxhITP8elYijJksXcf8KML+kb34m+isTrHnkyCBEMx5/mcZLaaeijouu5i6idtwg7lB3Xria1aAHL1WJ1yq+7WxvuXbkt7Icn5gEBjfBZjOG/xSwcwpszsr</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="17">
+<fpdm>3200174130</fpdm>
+<fphm>02642672</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171124</kprq>
+<kpsj>182745</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>039-99*-146+/18+3-651+1/*2102884+*6/9+056+4447*538**9679&lt;1832+/50-+9122+5*+*651&lt;/569826+-*336&lt;018&lt;-*0336619-4+37</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号万谷众创空间五号楼202025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110108783958601N</ghdwsbh>
+<ghdwmc>北京思维创科信息技术有限公司</ghdwmc>
+<ghdwdzdh>北京市海淀区上地东里四区4号楼2单元601室 01086468705</ghdwdzdh>
+<ghdwyhzh>上海浦东发展银行北京花园路支行 91240154800000435</ghdwyhzh>
+<bmbbbh>14.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>9433.9622641509434</dj>
+<je>9433.96</je>
+<sl>0.06</sl>
+<se>566.04</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>9433.96</je>
+<se>566.04</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>9433.96</hjje>
+<hjse>566.04</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr/>
+<fhr/>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201711</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgFt+BBf2tz6dt0wT++rreYa+Vko4xYDe63zzAO4IRoLUI2UWv1axpVR8r4+crN9z58nJAZ9VH3AAvKIe3YhwZGYGQpCjKxrRDKgbgmFz7J4TjImr585dyeltH9LpSqep4c9oV+jU1h8LG8WpPjQOEGVtT5o8CS6qa6cvZ+GZhBo/</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="18">
+<fpdm>3200174130</fpdm>
+<fphm>02642673</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171215</kprq>
+<kpsj>175740</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0388617/73&lt;8&lt;4/7&gt;&lt;-5&lt;&lt;7+61+&lt;&lt;248-4&lt;&lt;17&gt;96/4&lt;9&lt;4*76/&gt;20&gt;13/1+&lt;6532/2116*3*&gt;&lt;+11249&lt;6*399&lt;&lt;7*4/&lt;01&lt;&lt;-*03&gt;97+-/&gt;34/</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号五号楼202室025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>913205837424820615</ghdwsbh>
+<ghdwmc>昆山市昊骏企业管理顾问有限公司</ghdwmc>
+<ghdwdzdh>昆山伟业路8号现代广场B座18楼 0512-57366298</ghdwdzdh>
+<ghdwyhzh>中国银行昆山综合保税区支行 506660044641</ghdwyhzh>
+<bmbbbh>15.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>94339.622641509434</dj>
+<je>94339.62</je>
+<sl>0.06</sl>
+<se>5660.38</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>94339.62</je>
+<se>5660.38</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>94339.62</hjje>
+<hjse>5660.38</hjse>
+<jshj>100000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201712</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgJbAdBnC64EA45Tyhyk+zaZbZCvrugiOHBzp8jaHriqRiBAXM9EbI2xkFu86Hc0LN0Im9VtwVjA/+ofZ340Acf63oUqN8YrQPs3/RMr/9IksFLgGY90rj58Qg9sMI97YtELKvZ3Ly186PVUC+E2NoJJ5J8cBGuRC6qR8MizxCA6I</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="19">
+<fpdm>3200174130</fpdm>
+<fphm>02642674</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171215</kprq>
+<kpsj>180038</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03410*6&gt;7&gt;0&lt;-/883*+64*289193+&gt;2254&gt;018**1-67/533&lt;58&gt;54&lt;745**/3/*&gt;&lt;2365411188&gt;22314/10++11-994301&lt;&lt;-*034+23--3&gt;9/</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号五号楼202室025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>913205837424820615</ghdwsbh>
+<ghdwmc>昆山市昊骏企业管理顾问有限公司</ghdwmc>
+<ghdwdzdh>昆山伟业路8号现代广场B座18楼 0512-57366298</ghdwdzdh>
+<ghdwyhzh>中国银行昆山综合保税区支行 506660044641</ghdwyhzh>
+<bmbbbh>15.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>94339.622641509434</dj>
+<je>94339.62</je>
+<sl>0.06</sl>
+<se>5660.38</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>94339.62</je>
+<se>5660.38</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>94339.62</hjje>
+<hjse>5660.38</hjse>
+<jshj>100000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201712</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKVedIpEoLyobHiqrTOJEhY8E5JyqiAkUbgTB1uECQdKB+gN6ZEXFXrmbUUl1KjSdWh6lLoDbNbOVpSUDcC3FzqqKiCKNnbGvkDQXiZrCMEvljro8PrcfNOrgJfito/TQeHHcEZaFdBfRLhFYpanyLFJt4XzW4/nIaQYpwfzaK5K</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="20">
+<fpdm>3200174130</fpdm>
+<fphm>02642675</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171215</kprq>
+<kpsj>180222</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0320615*&lt;7318/6-8&gt;-*1&gt;*1+9142+8*-+0&lt;415/9806/062067&gt;1*9&gt;22&gt;08*/44-4&lt;-*9&lt;3*23/32102847&gt;6438+79601&lt;&lt;-*0381*/1&gt;&gt;470</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号五号楼202室025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>913205837424820615</ghdwsbh>
+<ghdwmc>昆山市昊骏企业管理顾问有限公司</ghdwmc>
+<ghdwdzdh>昆山伟业路8号现代广场B座18楼 0512-57366298</ghdwdzdh>
+<ghdwyhzh>中国银行昆山综合保税区支行 506660044641</ghdwyhzh>
+<bmbbbh>15.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>USB机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>51282.0512820512821</dj>
+<je>51282.05</je>
+<sl>0.17</sl>
+<se>8717.95</se>
+<hsbz>0</hsbz>
+<spbm>1090511020000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>51282.05</je>
+<se>8717.95</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>51282.05</hjje>
+<hjse>8717.95</hjse>
+<jshj>60000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>USB机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201712</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgF1JNhqeoc2Kp6D/33aEtXgUjgXBEhEF8PZskioUnlcSh1htHkiqx9v4Tp5TGI28EKU/HBS2UPMH0Ld6fZhdM5sEEv99+SWdNClvpCeLUrxhF6jja7BAqARAsGt/+NCw0E43ms7nQy1th/lmbQBt7HoAOleclSMWOhfK6OwXxQtf</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="21">
+<fpdm>3200174130</fpdm>
+<fphm>11335741</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20171229</kprq>
+<kpsj>132857</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03-43452-66*4+4+02&gt;-&gt;-10&gt;&gt;86&gt;+6+3&lt;-119&gt;*647&lt;5-8+5/&gt;&gt;8//59+5735-7*48032+68&lt;&lt;69+-+*&gt;7*/05968830+016&lt;-*03083/34*&gt;31</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区延龄巷27号五号楼202室025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>9111010866219043X0</ghdwsbh>
+<ghdwmc>北京赢家伟业科技孵化器股份有限公司</ghdwmc>
+<ghdwdzdh>北京市海淀区北四环西路9号2108A1 010-62800485</ghdwdzdh>
+<ghdwyhzh>中国民生银行股份有限公司北京中关村支行0105014170032516</ghdwyhzh>
+<bmbbbh>17.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>51282.0512820512821</dj>
+<je>51282.05</je>
+<sl>0.17</sl>
+<se>8717.95</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>51282.05</je>
+<se>8717.95</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>51282.05</hjje>
+<hjse>8717.95</hjse>
+<jshj>60000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201712</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgDZnePk2d+LGEnIxLIwjXjjX65N9epNEL2RBIwXIa2TkXMys50NzA2qx63obrf2UC2ku9qEv7p5MgTyCWJobZq1l9RisKFIU+FP8ZMjO4tlfO6lhLfvUASt7bFrGH7S+2vognt0iny6vpinx28CNbhU5gxeTH958K6Vjq6sVy713</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="22">
+<fpdm>3200174130</fpdm>
+<fphm>11335742</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180119</kprq>
+<kpsj>123005</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>036&lt;3&gt;22+&gt;-+/44&lt;218//359&lt;5/*39&lt;8092&lt;&gt;&gt;63+/950*0&lt;*692930+1-099/3&gt;78&gt;/*7**7849+7&gt;105&gt;/0**9411643011&lt;-*03**2+2121&lt;-</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>913101095774771452</ghdwsbh>
+<ghdwmc>上海洪昌数码科技有限公司</ghdwmc>
+<ghdwdzdh>上海市虹口区海宁路137号7层E座718A室</ghdwdzdh>
+<ghdwyhzh>华夏银行上海虹口支行 4335200001810200177751</ghdwyhzh>
+<bmbbbh>19.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>8547.00854700854701</dj>
+<je>8547.01</je>
+<sl>0.17</sl>
+<se>1452.99</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>8547.01</je>
+<se>1452.99</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>8547.01</hjje>
+<hjse>1452.99</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201801</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgJWoHndLJqxC/PD9WsIrkoHl+/OQphkrdMvJBnLAsMcrhO++Ml7sxpIPJveF3VseLSoARJIBMcfa+0KzRTwWtRsFTwsXty986on5y6PRrzzJrqG6B40ZzhuzneiOIKwYGwpYdz5fKDmPvnxdNPuDA3laY77UCqghfs4TcBI6/Zra</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="23">
+<fpdm>3200174130</fpdm>
+<fphm>11335743</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180130</kprq>
+<kpsj>153820</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>033*+84&lt;03+7*&gt;-*-34765&gt;23-7&gt;65+/345-747+*/&gt;623-*0*8//113+07935081575&lt;+5&lt;54&lt;+8173532/9404&lt;*/58&gt;013&lt;-*03/2&lt;/1/465&gt;</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110102101284890Q</ghdwsbh>
+<ghdwmc>北京纽斯特秘书财会服务有限公司</ghdwmc>
+<ghdwdzdh>北京市西城区阜成门外大街1号16层1625室 010-68025822</ghdwdzdh>
+<ghdwyhzh>北京银行阜成支行 01090323600120105262528</ghdwyhzh>
+<bmbbbh>19.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>8547.00854700854701</dj>
+<je>8547.01</je>
+<sl>0.17</sl>
+<se>1452.99</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>8547.01</je>
+<se>1452.99</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>8547.01</hjje>
+<hjse>1452.99</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201801</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKykS8bazowg/N0brllN0Y9u5M+yU7oSOBiOrPTxOGyE704l/JOXLULVcgxtirIAQ/8HBNXvd3S+eNGjlN1pCLgMoq4bd9O00KkkixuqNxScdr3qomOlvb5GbB26xrgtj5MFxkyn4OjGvlWU52uvcB9rTv6qyjEb+rZg3lR7hRnc</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="24">
+<fpdm>3200174130</fpdm>
+<fphm>11335744</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180130</kprq>
+<kpsj>154106</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>031+&lt;59366&gt;*-8*+1096--&gt;4&lt;*6&lt;193215145&gt;98219*&lt;6-&gt;-&lt;2/9/523+37&gt;2&lt;0+9&gt;4&lt;+1040+9/-&lt;/3-&gt;742571**4&lt;5013&lt;-*03&gt;062718*0*</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨经开区南岗集中区汉水路436号A栋10楼6号 0451-55539500</ghdwdzdh>
+<ghdwyhzh>中国银行股份有限公司哈尔滨动力支行 168978098920</ghdwyhzh>
+<bmbbbh>19.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>23504.2735042735043</dj>
+<je>23504.27</je>
+<sl>0.17</sl>
+<se>3995.73</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>23504.27</je>
+<se>3995.73</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>23504.27</hjje>
+<hjse>3995.73</hjse>
+<jshj>27500.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201801</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgAns5rGlyCG/vCyNrmeJwswkMmViY3EFGUSg5o3kAC0M/W9jx0lnDs8pNAI8+V1Ncj0qGEcnuRRyH1YQ6uzeip3NQf3EDWLcJwCkQO8HSWnXENkhe1wH6zvxQ7O/4d6pO16JWazivLW4BeYVj44gfBMcQpXUEe7S9XEfyvEtGgfB</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="25">
+<fpdm>3200174130</fpdm>
+<fphm>11335745</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180206</kprq>
+<kpsj>142456</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>031081+95+857-+&lt;&lt;&gt;4209&gt;401&lt;*1-++06*+&gt;/+988*9+48&lt;52*1&gt;892&gt;336-&lt;897&gt;80++&gt;+&lt;-1+9++532--/4&gt;17/44+-010&lt;-*039137/5/*/&gt;</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320583692133380W</ghdwsbh>
+<ghdwmc>昆山通润豪电子科技有限公司</ghdwmc>
+<ghdwdzdh>昆山市张浦镇震阳路129号 0512-57367839</ghdwdzdh>
+<ghdwyhzh>昆山农村商业银行营业部 7066500521120100230008</ghdwyhzh>
+<bmbbbh>19.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>8547.00854700854701</dj>
+<je>8547.01</je>
+<sl>0.17</sl>
+<se>1452.99</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>8547.01</je>
+<se>1452.99</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>8547.01</hjje>
+<hjse>1452.99</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201802</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgGbhd1/IGdaUSMuRiumOK9fJ8aoKwbCY1kOZDgFpYXpSKq0pEh4ljYl+VfnNpg5gWNHpNFfj4JEFbWxMpmKI2lEnAMHgbshKocza1EdO+63Cr4/lm6R58CcBfggXkSLR0cqYWKplq16XjLdgh8cUEN/rxmW6sfVK8zzIVjkEoH3B</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="26">
+<fpdm>3200181130</fpdm>
+<fphm>08771506</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180330</kprq>
+<kpsj>164558</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03*/+*2/7207+361896&lt;56&gt;*+&gt;22&lt;-2&gt;73+5+537&lt;6-&lt;&lt;+90*143*/47+60&lt;7248734&lt;9+688&lt;24*36-&gt;6*+-3*8&gt;8-&lt;5101&gt;&lt;-*03698&lt;8128&gt;/</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320582MA1MRDNY60</ghdwsbh>
+<ghdwmc>张家港成大会计服务有限公司</ghdwmc>
+<ghdwdzdh>张家港市塘市澳洋大厦南侧1.2.358221139</ghdwdzdh>
+<ghdwyhzh>张家港农村商业银行金泰支行802000053875888</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>8547.00854700854701</dj>
+<je>8547.01</je>
+<sl>0.17</sl>
+<se>1452.99</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>8547.01</je>
+<se>1452.99</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>8547.01</hjje>
+<hjse>1452.99</hjse>
+<jshj>10000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201803</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgICS3fk6x3rv1a+5jyqj7snn/CLmUNuWTwQ0tTyWRGADyLSKt2Sdyi+LTRWia5Gj308G2YE75r4YUDhdmAU6GRknWQ3Ts7DK+8/d2IIXNQqFwkQh8yK8zKIPbxd2EerP7L3kfTocetNThvzgEJ0ZYrMHGDCCPi5zosuU33tnAEIO</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="27">
+<fpdm>3200181130</fpdm>
+<fphm>08771507</fphm>
+<fpzt>1</fpzt>
+<scbz>1</scbz>
+<kprq>20180408</kprq>
+<kpsj>142755</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0360653/-3/2&gt;60/6*10&lt;87+4309&gt;*-&lt;791-5&lt;41/5*//495&lt;&gt;&lt;&lt;345077&lt;0+&gt;20+2+&gt;+44//47/0&gt;319*&gt;/8/928+7&lt;42111&lt;-*03&lt;5*99-34-*</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨市南岗区汉水路436号A栋10楼6号 0451-55539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行 168978098920</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>-1</spsl>
+<dj>23504.2735042735043</dj>
+<je>-23504.27</je>
+<sl>0.17</sl>
+<se>-3995.73</se>
+<hsbz>0</hsbz>
+<spbm>1090510990000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>-23504.27</je>
+<se>-3995.73</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>-23504.27</hjje>
+<hjse>-3995.73</hjse>
+<jshj>-27500.00</jshj>
+<bz>红字发票信息表编号2301981804002097</bz>
+<skr/>
+<fhr/>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh>2301981804002097</tzdbh>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKryqJZhwnG6WkDfysAqs8kcCk6R4HZTN3MvpRSJyrXCRGMQ0FsIr4JH9AnEVW4EaeYgRcU4pPZSAOPw0Vze8lcsVVglI480o/YGH2t8BzdjmAG6Tg6jTymYq8uKB/wBZOHvXoG/joM1n0OjNbdnyAxTId/vm+98E2drd938lG4q</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="28">
+<fpdm>3200181130</fpdm>
+<fphm>08771508</fphm>
+<fpzt>1</fpzt>
+<scbz>1</scbz>
+<kprq>20180408</kprq>
+<kpsj>144106</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03*-8+&lt;&gt;1402-567+93&lt;*2&gt;/8&lt;8&lt;&gt;*+72+*+2*7&lt;97+425227-&gt;1&lt;8223+45256+//*475472/+-0&gt;3/74/491508393+&lt;111&lt;-*0338814&gt;*-*-</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>912301993010472671</ghdwsbh>
+<ghdwmc>黑龙江弘远泰斯数字技术服务有限公司</ghdwmc>
+<ghdwdzdh>哈尔滨市南岗区汉水路436号A栋10楼6号 0451-55539500</ghdwdzdh>
+<ghdwyhzh>中国银行哈尔滨动力支行 168978098920</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*USB机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>-5</spsl>
+<dj>4700.85470085470085</dj>
+<je>-23504.27</je>
+<sl>0.17</sl>
+<se>-3995.73</se>
+<hsbz>0</hsbz>
+<spbm>1090510990000000000</spbm>
+<zxbm>02</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>-23504.27</je>
+<se>-3995.73</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>-23504.27</hjje>
+<hjse>-3995.73</hjse>
+<jshj>-27500.00</jshj>
+<bz>红字发票信息表编号2301981804002109</bz>
+<skr/>
+<fhr/>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*USB机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh>2301981804002109</tzdbh>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgCD/8Fkv+jRH8DhK5AyLSP4STMHtVr6V9ioFflujeHaLUvgzaBv3wH5LU1XebjbuT8CMVua5tZ1Wm/zZBP4ZL4g7szXW1t8dnybIsV9ssowf0fImYLb3TzBMfABlq20m/Lr/wtIyBarEzGZm9GQdpd8X5r7T+OJ2K6kdfLWh+jsk</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="29">
+<fpdm>3200181130</fpdm>
+<fphm>08771509</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180408</kprq>
+<kpsj>145356</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03-*&gt;54&gt;8**637-8712328*1+4522-38&lt;20/7*6&lt;58**&gt;7*/5+/&gt;&lt;+32*385&gt;*2627+8&lt;3&gt;202*1&gt;47&lt;8++35068031&gt;&gt;&gt;011&lt;-*03+/4846&gt;736</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110106MA00EPU02F</ghdwsbh>
+<ghdwmc>北京金沐森科技股份有限公司</ghdwmc>
+<ghdwdzdh>北京市丰台区汽车博物馆东路1号院3号楼8层801室 010-52903060</ghdwdzdh>
+<ghdwyhzh>平安银行股份有限公司北京总部基地支行 15000088646610</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>13675.2136752136752</dj>
+<je>13675.21</je>
+<sl>0.17</sl>
+<se>2324.79</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>13675.21</je>
+<se>2324.79</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>13675.21</hjje>
+<hjse>2324.79</hjse>
+<jshj>16000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgHVs9K7TLDMUIadjYUZWnaYy0g2xA9UXHLH4JlJ7bjdBSwEx/s9JhB/syuygkQICnK0VpkE1KfJA92gKrqz0tbOXNPn0UQm+DmeZyeWYXG4NaGeJukMs5HsUc5gpm3dZvyXivoQw7PW2la6yDGC5rlo3ZvYNnJkjGUteZd1SdwkH</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="30">
+<fpdm>3200181130</fpdm>
+<fphm>08771510</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180419</kprq>
+<kpsj>162923</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0355098*5/82+3-&lt;74&lt;91*831/--53/2*&lt;178020475/664/673*-72-1/383&lt;5-&lt;&lt;/&gt;874&gt;--69*07219+*+3/+9+82--01-&lt;-*035&gt;46-/&lt;3/&lt;</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>9131011257589456X7</ghdwsbh>
+<ghdwmc>创企投资发展（上海）有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区天目西路511号1502室 02132206707</ghdwdzdh>
+<ghdwyhzh>上海农商银行徐家汇支行 32427708010176287</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*经营租赁*机柜租赁费</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>3076.92307692307692</dj>
+<je>3076.92</je>
+<sl>0.17</sl>
+<se>523.08</se>
+<hsbz>0</hsbz>
+<spbm>3040502019900000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>3076.92</je>
+<se>523.08</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>3076.92</hjje>
+<hjse>523.08</hjse>
+<jshj>3600.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*经营租赁*机柜租赁费</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgB/HFIcsZpL8NdNzXLwZ9SgwFkQ67ZxgxnfPz4hdyqm72sITlSxg9oLmBLY6lQX+L83GfNiYLuWUVqtA+f7JhTF8x+qpRTuUtG5nO54IcKtxbFwRGp8KiwmG7ON5UQSDcvk/xA8jXwSfsh9wWgilwli3vY4N2zs+vzKkz4X2qdkr</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="31">
+<fpdm>3200182130</fpdm>
+<fphm>00598911</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180425</kprq>
+<kpsj>171023</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>031&gt;7-7+5&gt;/*95&gt;9-8+3169&gt;*19595677141209-81+78/21-1669975158&lt;205-5*2-90&lt;&lt;-7565+402&lt;&gt;+59385-7/6-017&lt;-*039+8*34/381</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310112760581266F</ghdwsbh>
+<ghdwmc>上海创伟财务服务有限公司</ghdwmc>
+<ghdwdzdh>上海市徐汇区漕溪北路88号510室 021-64681415</ghdwdzdh>
+<ghdwyhzh>上海银行徐汇支行 00006059492</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*经营租赁*机柜租赁费</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>3076.92307692307692</dj>
+<je>3076.92</je>
+<sl>0.17</sl>
+<se>523.08</se>
+<hsbz>0</hsbz>
+<spbm>3040502019900000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>3076.92</je>
+<se>523.08</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>3076.92</hjje>
+<hjse>523.08</hjse>
+<jshj>3600.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*经营租赁*机柜租赁费</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgGKsibeaPA988HsdK6KSz+2oa//SJyXw23b4r05n93nA1CkrMsAUv0Uq+ykIa3qHlVQ5FIVWpHUmn0jQcChCBSGikuYuQpO/1QKo0rFyJp/aBV+7T/RV3XQRpA7f96+pZqvE/SbFiBdu8ghKYaBFc6069Xf3AAjUzcQkm8Ek3xsx</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="32">
+<fpdm>3200182130</fpdm>
+<fphm>00598912</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180425</kprq>
+<kpsj>175120</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03+&lt;&lt;/1*866/&lt;606810+156&gt;6+**&gt;82/*+7086&lt;3/0*22*0&lt;3&gt;/*20/74&gt;+7/49775/9*&gt;*7476&lt;2/937/999&gt;*82+5550017&lt;-*038+31219547</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320582MA1MRDNY60</ghdwsbh>
+<ghdwmc>张家港成大会计服务有限公司</ghdwmc>
+<ghdwdzdh>张家港市塘市澳洋国际大厦B828、13962233488</ghdwdzdh>
+<ghdwyhzh>张家港农村商业银行金泰支行802000053875888</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>42735.042735042735</dj>
+<je>42735.04</je>
+<sl>0.17</sl>
+<se>7264.96</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.17</sl>
+<je>42735.04</je>
+<se>7264.96</se>
+</group>
+</qtxm>
+<zhsl>0.17</zhsl>
+<hjje>42735.04</hjje>
+<hjse>7264.96</hjse>
+<jshj>50000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgF3LwHfa+Fp6Yxk9/mSQ6nSkHwkr8szVuJIGyr/LEwLZyMA8c7cFw6RSBGBEGHJxyDTnVI321YZtFxBDv5mRVjyEkahBIcobjgQPRztapZxJHL+q8t2AnG+E6Lq2hFPz1lGcfRYvT7sk2FJhlIkAZ5tINzMdWyPlmoMvYj383BE4</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="33">
+<fpdm>3200182130</fpdm>
+<fphm>00598913</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180425</kprq>
+<kpsj>180337</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>0363/646&lt;577164-868601-099*&gt;7-3&lt;7&gt;1&lt;-881+3-6&gt;77+/409/7910*5&gt;51*7274328&gt;+7-32&gt;9+916/7&gt;2/&lt;71-7/&gt;017&lt;-*03592879*806</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320505697868466G</ghdwsbh>
+<ghdwmc>苏州恒莱运电子有限公司</ghdwmc>
+<ghdwdzdh>苏州新区狮山科技馆4楼 67518884</ghdwdzdh>
+<ghdwyhzh>光大银行苏州高新技术产业开发区支行 37090188000036027</ghdwyhzh>
+<bmbbbh>28.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>94339.622641509434</dj>
+<je>94339.62</je>
+<sl>0.06</sl>
+<se>5660.38</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>94339.62</je>
+<se>5660.38</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>94339.62</hjje>
+<hjse>5660.38</hjse>
+<jshj>100000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*研发和技术服务*软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201804</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKbvsuznVPcffLQwDMSxU60mLhn2iW9sW9z//6MrYSnyohLGYMbb23mncDk0DehxKZbO953G6Jy+kuszu10CAH3e36noybvZYRllVf5PdQRenaOKp6MoXPeqJEiE9pBX0rqIyZD/3UbPw+VVSnidCRa4tVColAQRje5L/5v1CHq8</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="34">
+<fpdm>3200182130</fpdm>
+<fphm>00598914</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180514</kprq>
+<kpsj>121501</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>035&lt;+29&gt;&gt;&gt;1&gt;7&lt;15+/857&lt;7-9&lt;6+682-5817097&gt;*14691&gt;/&lt;6&gt;-/5/&lt;/10/1059-634--86&gt;*&gt;0//73&gt;+9&lt;6&lt;&gt;8589&lt;1&lt;01&gt;&lt;-*030&gt;780-*&gt;42</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320404323523316X</ghdwsbh>
+<ghdwmc>常州太德光电科技有限公司</ghdwmc>
+<ghdwdzdh>江苏省常州市新北区通江大道265号 0519-85518539</ghdwdzdh>
+<ghdwyhzh>中国农业银行常州金佰支行 10614901040010933</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="2">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*计算机网络设备*CA机柜</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>8620.68965517241379</dj>
+<je>8620.69</je>
+<sl>0.16</sl>
+<se>1379.31</se>
+<hsbz>0</hsbz>
+<spbm>1090510030000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+<group xh="2">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>26594.3396226415094</dj>
+<je>26594.34</je>
+<sl>0.06</sl>
+<se>1595.66</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="2">
+<group xh="1">
+<sl>0.16</sl>
+<je>8620.69</je>
+<se>1379.31</se>
+</group>
+<group xh="2">
+<sl>0.06</sl>
+<je>26594.34</je>
+<se>1595.66</se>
+</group>
+</qtxm>
+<zhsl>99.01</zhsl>
+<hjje>35215.03</hjje>
+<hjse>2974.97</hjse>
+<jshj>38190.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>孙嘉祺</kpr>
+<jmbbh/>
+<zyspmc>*计算机网络设备*CA机柜</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201805</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgES2QjAKbuqxs2dTGFmUGd0SPrYTrkjV7SG5MsML7EBxcekxwRPgE18r9yda8r7IL+yB4PJRoIN+cfKe5DjAzX8PgoRYzk4skqzYNoqVxCZ5sx6mNiR3RlyHM4ZbhqfMjyaPJ8tsc5cMu79wv8OOUTqYGDbxSeW7UG51UJmsRZm5</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="35">
+<fpdm>3200182130</fpdm>
+<fphm>00598915</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180518</kprq>
+<kpsj>145013</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03597251-&lt;8941/38557&gt;&lt;96&gt;2//7/1+-&gt;6754&lt;&gt;&lt;&gt;26&lt;77*8583739722448&gt;5&gt;392038*/46&gt;11-0*8+97408-0-*408012&lt;-*03&lt;+0+2926--</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91330103747014996B</ghdwsbh>
+<ghdwmc>杭州广信玖逸控股集团有限公司</ghdwmc>
+<ghdwdzdh>萧山区宁围街道鸿宁路2327号丽晶国际中心1幢802室 0571-88806225</ghdwdzdh>
+<ghdwyhzh>工行朝晖支行1202022109900125208</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>47169.811320754717</dj>
+<je>47169.81</je>
+<sl>0.06</sl>
+<se>2830.19</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>47169.81</je>
+<se>2830.19</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>47169.81</hjje>
+<hjse>2830.19</hjse>
+<jshj>50000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>孙嘉祺</kpr>
+<jmbbh/>
+<zyspmc>*研发和技术服务*软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201805</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgG6pCZ1quys2KkAh7n9GB6gtjLbyxLA8cd3m5IBJ/fP7KJ7QDJFJUqYm26bO9rvgtSC4Py6soy+ha5i4Ee7rVoCR6uZ+0ZIbnDcLXBsCpPlfHziU+6rzBBHVQ9gq5rPBsujhhKs6mWYyh944KzHAIuHDVd8TyyL6KaxpkBi9T4qH</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="36">
+<fpdm>3200182130</fpdm>
+<fphm>05124466</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180530</kprq>
+<kpsj>102809</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>035-280/548&gt;2+/4&gt;6-+556157+47++/8-2741&lt;29+48-0010214*6&gt;3&lt;+*7492&lt;314&lt;3-5&gt;0000925805508131+59-/*011&lt;-*03858&lt;*17+28</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91370303MA3D5KQJ77</ghdwsbh>
+<ghdwmc>淄博易桥鲁信财税服务咨询有限公司</ghdwmc>
+<ghdwdzdh>山东省淄博市张店区新村西路133号鲁信商务楼2楼201室0533-2870102</ghdwdzdh>
+<ghdwyhzh>齐商银行股份有限公司通济支行801107701421006297</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>47169.811320754717</dj>
+<je>47169.81</je>
+<sl>0.06</sl>
+<se>2830.19</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>47169.81</je>
+<se>2830.19</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>47169.81</hjje>
+<hjse>2830.19</hjse>
+<jshj>50000.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>孙嘉祺</kpr>
+<jmbbh/>
+<zyspmc>*研发和技术服务*软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201805</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgKpcavHSLIjOtnuV/+9OCVcUzrYZaSMfGbJMNg1rBhrpb5IwbFNBxdvS+vRMmcVzIE6jLzuqU/dBSgqrusaQ9tefN3DORmZxHX7yoKeXhCXbFQdAoa+lMrv4nI6WpNBiUCxMRJj+J7Y9Gj+eMlIFowjCvdgniCnTkZp9N1U7Bo/K</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="37">
+<fpdm>3200182130</fpdm>
+<fphm>05124467</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180611</kprq>
+<kpsj>143951</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03533+&lt;&lt;-4&lt;772/1-*-105&gt;841769-68&gt;7-3400+03+242/2096337&lt;24+&gt;55+-5/9241083/+0++/*4&lt;/1+-1&lt;*376837018&lt;-*038&gt;/0&gt;3&lt;15&gt;</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91320505MA1MNCE492</ghdwsbh>
+<ghdwmc>苏州德迈斯自动化科技有限公司</ghdwmc>
+<ghdwdzdh>苏州高新区竹园路209号3号楼25楼 18501508525</ghdwdzdh>
+<ghdwyhzh>中国工商银行苏州分行 1102020609001032157</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>54433.9622641509434</dj>
+<je>54433.96</je>
+<sl>0.06</sl>
+<se>3266.04</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>54433.96</je>
+<se>3266.04</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>54433.96</hjje>
+<hjse>3266.04</hjse>
+<jshj>57700.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*研发和技术服务*软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201806</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgD4Pmux6SPHtGHvhSgDbElhOFjANPfh6hzNjnSZ6rh7n9kwa2pKzght57zcNIr6tFz2SGmaghngq1YlOXioknch1wCeKdPzF7sn8CBwgKsIugqgMMRaP6Frhh8XAR8NfCrlrj8nWp9jmK3ITYj3AHZ/yQjrNkYCX8FAyuyVrRd2L</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="38">
+<fpdm>3200182130</fpdm>
+<fphm>05124468</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180611</kprq>
+<kpsj>145234</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>039+85/732-+3720&lt;88&gt;3-01044&lt;6961*065&gt;9*5/9&gt;218+&lt;0&lt;57-0/915/-+7/-62&gt;549/*+//267*8555&lt;+*81-/-6&gt;3018&lt;-*032051/2*5/*</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>9131011257589456X7</ghdwsbh>
+<ghdwmc>创企投资发展（上海）有限公司</ghdwmc>
+<ghdwdzdh>上海市静安区天目西路511号1502室 02132206707</ghdwdzdh>
+<ghdwyhzh>上海农商银行徐家汇支行 32427708010176287</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*经营租赁*机柜租赁费</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>1551.72413793103448</dj>
+<je>1551.72</je>
+<sl>0.16</sl>
+<se>248.28</se>
+<hsbz>0</hsbz>
+<spbm>3040502019900000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.16</sl>
+<je>1551.72</je>
+<se>248.28</se>
+</group>
+</qtxm>
+<zhsl>0.16</zhsl>
+<hjje>1551.72</hjje>
+<hjse>248.28</hjse>
+<jshj>1800.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*经营租赁*机柜租赁费</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201806</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgGfDmzKV+OpvHhQSC2NPkd9HzBJXftDixFDFcMFiaNzAhzU+rCeNQT9N4WItIPCuu46mjjeLeo0JfBTAQMD9xah7EaoJYOvedBoudIPWd8AzpHtnlpLVOMWHyvwZzg4mx5/8UJowmqTQbVpVd+/ZhwZqf0s3jtaGhUJC0sdn1YFf</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="39">
+<fpdm>3200182130</fpdm>
+<fphm>05124469</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180611</kprq>
+<kpsj>154818</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>03/5/970&lt;*6&gt;6-457&lt;4/322085318+1&gt;*6&lt;14+79++76+-*&gt;80-302773&lt;6274+3*3+-8571+20-78+6/59&lt;763/&lt;1/9&lt;9018&lt;-*03&gt;&gt;0*+18192</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91310112760581266F</ghdwsbh>
+<ghdwmc>上海创伟财务服务有限公司</ghdwmc>
+<ghdwdzdh>上海市徐汇区漕溪北路88号510室 021-64681415</ghdwdzdh>
+<ghdwyhzh>上海银行徐汇支行 00006059492</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*经营租赁*机柜租赁费</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>6206.89655172413793</dj>
+<je>6206.90</je>
+<sl>0.16</sl>
+<se>993.10</se>
+<hsbz>0</hsbz>
+<spbm>3040502019900000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.16</sl>
+<je>6206.9</je>
+<se>993.1</se>
+</group>
+</qtxm>
+<zhsl>0.16</zhsl>
+<hjje>6206.90</hjje>
+<hjse>993.10</hjse>
+<jshj>7200.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>管理员</kpr>
+<jmbbh/>
+<zyspmc>*经营租赁*机柜租赁费</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201806</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgH1CfhkaXvLrlIl7EU+P/ZVjAMgr6+ITL1B5kAkmF/NalBhiu2KcwBBZCxxnb03Sqd8JMabsuuBAiXBJjsnOqzgmRnCpD2q2AyYiBlqzNgL3mjhRqLS6F2/XqCfuA/j9HmnvLwKcOjLnPnPbiqx1n+Xat4ndHMqaZk/9t4Cfr3n+</qmz>
+<ykfsje>0</ykfsje>
+</group>
+<group xh="40">
+<fpdm>3200182130</fpdm>
+<fphm>05124470</fphm>
+<fpzt>0</fpzt>
+<scbz>1</scbz>
+<kprq>20180629</kprq>
+<kpsj>100022</kpsj>
+<tspz/>
+<skpbh>539905411217</skpbh>
+<skm>037&gt;*215*2*4315&gt;9*846688105//8-&gt;&gt;&gt;7-837/25807+597*019&gt;+&lt;8*68*20&gt;00+3/26**7677*-9/-+6/&gt;2879+9-/016&lt;-*0320073&gt;8-3-</skm>
+<jym/>
+<xhdwsbh>91320104302767442H</xhdwsbh>
+<xhdwmc>南京云帐房网络科技有限公司</xhdwmc>
+<xhdwdzdh>南京市秦淮区抄纸巷11号025-86609239</xhdwdzdh>
+<xhdwyhzh>南京银行龙蟠路支行01570120210060241</xhdwyhzh>
+<ghdwsbh>91110102101284890Q</ghdwsbh>
+<ghdwmc>北京纽斯特秘书财会服务有限公司</ghdwmc>
+<ghdwdzdh>北京市西城区阜成门外大街1号16层1625室 010-68025822</ghdwdzdh>
+<ghdwyhzh>北京银行阜成支行 01090323600120105262528</ghdwyhzh>
+<bmbbbh>30.0</bmbbbh>
+<hsslbs>0</hsslbs>
+<fyxm count="1">
+<group xh="1">
+<fphxz>0</fphxz>
+<spmc>*研发和技术服务*软件技术服务</spmc>
+<spsm/>
+<ggxh/>
+<dw/>
+<spsl>1</spsl>
+<dj>4056.60377358490566</dj>
+<je>4056.60</je>
+<sl>0.06</sl>
+<se>243.40</se>
+<hsbz>0</hsbz>
+<spbm>3040105000000000000</spbm>
+<zxbm>01</zxbm>
+<yhzcbs>0</yhzcbs>
+<slbs/>
+<zzstsgl/>
+</group>
+</fyxm>
+<qdxm count="0"/>
+<qtxm count="1">
+<group xh="1">
+<sl>0.06</sl>
+<je>4056.6</je>
+<se>243.4</se>
+</group>
+</qtxm>
+<zhsl>0.06</zhsl>
+<hjje>4056.60</hjje>
+<hjse>243.40</hjse>
+<jshj>4300.00</jshj>
+<bz/>
+<skr>管理员</skr>
+<fhr>管理员</fhr>
+<kpr>孙嘉祺</kpr>
+<jmbbh/>
+<zyspmc>*研发和技术服务*软件技术服务</zyspmc>
+<spsm>0</spsm>
+<qdbz>0</qdbz>
+<ssyf>201806</ssyf>
+<kpjh>0</kpjh>
+<tzdbh/>
+<yfpdm/>
+<yfphm/>
+<zfrq/>
+<zfr/>
+<qmcs>01B4004282000000</qmcs>
+<qmz>MIIBQwYJKoZIhvcNAQcCoIIBNDCCATACAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAQ8wggELAgEBMGkwXjELMAkGA1UEBhMCY24xFTATBgNVBAseDFb9W7Z6DlKhYDtcQDEdMBsGA1UEAx4Ueg5SoXU1W1CLwU5me6F0Bk4tX8MxGTAXBgNVBA0eEABjAGEAMQAwADAAMAAwADICBxQBAABbE0EwCQYFKw4DAhoFADANBgkqhkiG9w0BAQEFAASBgH3ZUy0E7Ewll8V5bQFJtn53GedYqeZSRvdZipXpdsvMghOn/Rta131Fan+wPx9AdpKMKqUUqFCYuJRu2d7tv1fDzypFr3QgeM53txSAox2PtmEm1kdX0lBI4afOEFlSyoc8k7Uv3daTJzqICH2sRMURiwoHhsn5erZ9izVBpiNK</qmz>
+<ykfsje>0</ykfsje>
+</group>
+</fpxx>
+</output>
+</body>
+</business>
+  
